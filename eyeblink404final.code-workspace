@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "eyeblink404final",
+			"path": "."
+		},
+		{
+			"name": "dataset_B_Eye_Images",
+			"path": "../dataset_B_Eye_Images"
+		},
+		{
+			"path": "../../../Downloads/yawndata"
+		}
+	],
+	"settings": {}
+}
